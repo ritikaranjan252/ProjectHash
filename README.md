@@ -82,6 +82,8 @@ This section lists the major frameworks that we built our project using.
 * [PHP](https://www.php.net/)
 * [Canva Pro](https://www.canva.com)
 * [Figma](https://www.figma.com)
+* ReactJS(https://reactjs.org/)
+* NodeJS
 
 ### What is special about this?
 * This initiative is the first of its kind for our LGBTQIA+ friends. As all of us know,there are various communities for everyone at large, but being solely focussed on the LGBTQIA+ people,this is a novelty.
