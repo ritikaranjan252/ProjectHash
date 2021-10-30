@@ -171,11 +171,11 @@ Few Screenshots of the demo prototype are below:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Zeo-shark/Qlickit/graphs/contributors
+[contributors-url]: https://github.com/ritikaranjan252/ProjectHash/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Zeo-shark/Qlickit/network/members
+[forks-url]: https://github.com/ritikaranjan252/ProjectHash/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Zeo-shark/Qlickit/stargazers
+[stars-url]: https://github.com/ritikaranjan252/ProjectHash/ProjectHash
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/Zeo-shark/Qlickit/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
