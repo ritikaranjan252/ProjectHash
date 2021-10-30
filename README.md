@@ -1,1 +1,1 @@
-# IRY_hacks
+# Focus on upliftment of LGBTQIA+ people
