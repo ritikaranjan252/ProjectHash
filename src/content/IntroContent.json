@@ -1,0 +1,13 @@
+{
+  "title": "LGBTIQA+",
+  "text": "Change lives and uplift the marginalized LGBTIQA+ population, by providing a safe space to them",
+  "button": [
+    {
+      "title": "Login"
+    },
+    {
+      "title": "Sign Up",
+      "color": "#fff"
+    }
+  ]
+}
