@@ -15,14 +15,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-![YOU2ME (3)](https://user-images.githubusercontent.com/48444783/139535564-ccb6e16a-0804-4d14-8737-22f4cc799939.png)
+
+
+  ![YOU2ME (3)](https://user-images.githubusercontent.com/48444783/139535564-ccb6e16a-0804-4d14-8737-22f4cc799939.png)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -166,22 +162,11 @@ Few Screenshots of the demo prototype are below:
 3. [Indrashis Mitra](https://github.com/indrashismitra)
 
 
-
+Give a ⭐️ if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ritikaranjan252/ProjectHash/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ritikaranjan252/ProjectHash/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ritikaranjan252/ProjectHash/ProjectHash
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Zeo-shark/Qlickit/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Zeo-shark/Qlickit/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+
+
 
 
