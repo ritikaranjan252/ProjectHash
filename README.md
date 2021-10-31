@@ -19,7 +19,7 @@
 
 
   ![YOU2ME (3)](https://user-images.githubusercontent.com/48444783/139535564-ccb6e16a-0804-4d14-8737-22f4cc799939.png)
-  https://ritikaranjan252.github.io/ProjectHash/
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -92,6 +92,17 @@ This section lists the major frameworks that we built our project using.
 ### How we built it?
 * **Design prototype** - Canva pro, figma
 * **The app** - ReactJs, HTML, CSS, JS
+
+
+
+![image](https://user-images.githubusercontent.com/48444783/139570573-28b6dbc9-59de-4bcb-b3c1-2e0e501d2e34.png)
+
+![image](https://user-images.githubusercontent.com/48444783/139570580-29f5dccd-b162-4929-b5bc-b3de1e9f3ab6.png)
+
+![image](https://user-images.githubusercontent.com/48444783/139570589-cae00692-a4cf-4926-8f33-8b70b630a213.png)
+
+![image](https://user-images.githubusercontent.com/48444783/139570584-e5e48e74-d39a-4859-b4d5-4bd1d71db844.png)
+
 
 <!-- GETTING STARTED --
 ## Getting Started
